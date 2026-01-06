@@ -22,7 +22,7 @@ A simple and elegant command-line utility to switch between Intel iGPU and NVIDI
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/gpu-switch.git
+git clone https://github.com/Devjyot-008/gpu-switch.git
 cd gpu-switch
 chmod +x install.sh
 ./install.sh
@@ -113,13 +113,3 @@ MIT License - feel free to use and modify as needed.
 ---
 
 Made with ❤️ for the Arch Linux community
-```
-
-Your repository structure should be:
-```
-gpu-switch/
-├── gpu_switch.sh
-├── install.sh
-├── uninstall.sh
-├── README.md
-└── LICENSE
